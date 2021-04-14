@@ -7,6 +7,7 @@ namespace Program
         static void Main(string[] args)
         {
             Console.WriteLine("Matías Ferreira :)");
+            Console.WriteLine("Juan Andrés Leal");
         }
     }
 }
